@@ -161,7 +161,7 @@ Depature: ${tSpiritD}
   }
 
   freqTask() {
-    console.log('FREQ');
+    // console.log('FREQ');
     const repeatStr = this.reptCache
       .map(({ str, dates, duration }) => {
         const nextStart = dates.find(isFuture) as Date;
