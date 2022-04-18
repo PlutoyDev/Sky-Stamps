@@ -1,4 +1,6 @@
-import 'dotenv/config';
+import { config } from 'dotenv';
+config();
+
 import authServerInit from './auth';
 import SkyTimestamp from './timestamp';
 
