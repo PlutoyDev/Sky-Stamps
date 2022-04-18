@@ -1,0 +1,17 @@
+
+###
+POST https://canary.discord.com/api/webhooks/965427271487868968/-siGbOVS3K3YIfsDT_J60sigHKR12HGuLLYxdZVWvr7u9IPWdrFUA5FPdcizvYv_b4dz?wait=true
+Content-Type: application/json
+
+{
+  "content": "test"
+}
+
+
+###
+PATCH https://discord.com/api/webhooks/793485981524951071/qAf0w0euO7tR3OfMBN5a7A1GUZQ9f-28gUTNe-7If65ivMwT9T0iqpFfRfHacWmhW6h4/messages/965419797619818517
+Content-Type: application/json
+
+{
+  "content": "testedited"
+}
