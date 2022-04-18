@@ -84,8 +84,10 @@ const authServerInit = (
     }
   });
 
-  app.listen(2712, () => {
-    console.log('Auth server listening on port 2712');
+  const port = process.env.PORT || 2712;
+
+  app.listen(port, () => {
+    console.log(`Auth server listening on port ${port}`);
   });
 };
 
