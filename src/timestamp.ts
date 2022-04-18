@@ -65,14 +65,14 @@ export default class SkyTimestamp {
         ':s06Sanctuary: **__Current Timestamps for the Sanctuary Islands Geyser Wax__** (by @Yash🌈)',
       offset: 5,
       interval: 120,
-      duration: 15,
+      duration: 10,
     },
     {
       title:
         ':s03Belonging: **__Current Timestamps for Forest Grandma Dinner Wax__** (by @Elysian)',
       offset: 35,
       interval: 120,
-      duration: 15,
+      duration: 10,
     },
   ] as const;
 
