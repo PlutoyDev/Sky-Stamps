@@ -7,7 +7,8 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "node ."
+    "start": "node .",
+    "build": "tsc"
   },
   "devDependencies": {
     "@types/express": "^4.17.13",
