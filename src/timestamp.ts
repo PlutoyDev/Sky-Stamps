@@ -62,14 +62,14 @@ export default class SkyTimestamp {
   repeat = [
     {
       title:
-        '<:s06Sanctuary:741938722706292739> **__Current Timestamps for the Sanctuary Islands Geyser Wax__** (by @Yash🌈)',
+        '**__Current Timestamps for the Sanctuary Islands Geyser Wax__** (by @Yash🌈)',
       offset: 5,
       interval: 120,
       duration: 10,
     },
     {
       title:
-        '<:s03Belonging:768438826007527425> **__Current Timestamps for Forest Grandma Dinner Wax__** (by @Elysian)',
+        '**__Current Timestamps for Forest Grandma Dinner Wax__** (by @Elysian)',
       offset: 35,
       interval: 120,
       duration: 10,
